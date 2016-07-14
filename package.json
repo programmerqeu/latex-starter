@@ -1,0 +1,29 @@
+{
+  "name": "thesis-nanny",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vergissberlin/THESIS-Nanny.git"
+  },
+  "keywords": [
+    "thesis"
+  ],
+  "author": "Jeanine Peters",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vergissberlin/THESIS-Nanny/issues"
+  },
+  "homepage": "https://github.com/vergissberlin/THESIS-Nanny#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-latex": "^1.0.0",
+    "grunt-notify": "^0.4.5",
+    "jit-grunt": "^0.10.0",
+    "time-grunt": "^1.3.0"
+  }
+}
