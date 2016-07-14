@@ -1,6 +1,6 @@
 {
   "name": "thesis-nanny",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,7 @@
   "homepage": "https://github.com/vergissberlin/THESIS-Nanny#readme",
   "devDependencies": {
     "grunt": "^1.0.1",
+    "grunt-bump": "^0.8.0",
     "grunt-latex": "^1.0.0",
     "grunt-notify": "^0.4.5",
     "jit-grunt": "^0.10.0",
